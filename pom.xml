@@ -64,10 +64,10 @@
                 <version>${jib-maven-plugin.version}</version>
                 <configuration>
                     <from>
-                        <image>dr.datangliang.com/java:11</image>
+                        <image>registry.cn-shenzhen.aliyuncs.com/datangliang/java:11</image>
                     </from>
                     <to>
-                        <image>dr.datangliang.com/ouyangshixiong/jib-demo:v1</image>
+                        <image>registry.cn-shenzhen.aliyuncs.com/datangliang/jib-demo:v1.0.0</image>
                     </to>
                     <allowInsecureRegistries>true</allowInsecureRegistries>
                     <container>
